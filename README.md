@@ -1,6 +1,6 @@
 # APINoW SDK Examples
 
-This repository contains examples demonstrating how to use the [APINoW SDK](https://github.com/apinow-io/apinow-sdk) to interact with the APINoW marketplace.
+This repository contains examples demonstrating how to use the [APINoW SDK](https://www.npmjs.com/package/apinow-sdk) - a toolkit that enables AI agents to dynamically discover, purchase, and consume API endpoints. APINoW is a decentralized marketplace where AIs can autonomously find and pay for the data they need.
 
 ## Examples
 
@@ -42,3 +42,14 @@ This repository contains examples demonstrating how to use the [APINoW SDK](http
 ## Contributing
 
 We welcome contributions! Please open an issue or submit a PR.
+
+## Resources
+
+- [Website](https://apinow.fun)
+- [Demo Video](https://www.youtube.com/watch?v=4MlkBfnUeKo)
+- [X/Twitter](https://x.com/apinowfun)
+- [Telegram Community](https://t.me/+owjactcDFTo3Yzg5)
+- [GitHub Repository](https://github.com/1dolinski/apinow-sdk)
+- [NPM Package](https://www.npmjs.com/package/apinow-sdk)
+- [AI PMF](https://warpcast.com/aethernet/0xab4dab20)
+- [White Paper](https://docs.google.com/document/d/1TX27bNh6njGRGa8vJcckntxvu0MF_TKTTSOufDjg0a8)
